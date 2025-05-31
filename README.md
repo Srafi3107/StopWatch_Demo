@@ -1,3 +1,1 @@
-This is a demo mini project of stopwatch using ReactJs
- Improvement  needed:
- 1. Applying CSS
+A simple and clean stopwatch application built with **ReactJS**. This mini project demonstrates how to manage state and side effects using React Hooks like `useState` and `useEffect` (or `useRef`).
